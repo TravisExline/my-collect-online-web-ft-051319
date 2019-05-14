@@ -1,3 +1,3 @@
-def my_collect(languages, students)
+def my_collect(languages)
 
 end
